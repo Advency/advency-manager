@@ -1,1 +1,2 @@
-# advency-manager
+# Advency Manager desktop application
+www.advency-manager.com
